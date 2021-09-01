@@ -11,7 +11,7 @@
 #adb push FnDGoogleAPP.sh /data/local/tmp
 #adb shell
 #cd /data/local/tmp
-#./FnDGoogle.sh
+#./FnDGoogleAPP.sh
 
 #elvezd a bloatware mentes eletet
 #Google Play Stores nem mukodik
