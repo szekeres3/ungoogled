@@ -8,7 +8,7 @@
 #https://developer.android.com/studio/releases/platform-tools
 
 #Felhasznaloi Utmutato => Parancsok
-#adb push FnDGoogle.sh /data/local/tmp
+#adb push FnDGoogleAPP.sh /data/local/tmp
 #adb shell
 #cd /data/local/tmp
 #./FnDGoogle.sh
